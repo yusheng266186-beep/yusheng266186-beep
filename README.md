@@ -86,15 +86,15 @@ I build education tools, interactive web experiences, and local-first apps. Find
 <details>
 <summary>7 个归档项目 / 7 archived projects</summary>
 
-| 项目 / Project | 当时的用途 / Original purpose |
-| --- | --- |
-| [北辰 v3 调试版 / Polaris v3 debug](https://github.com/yusheng266186-beep/beichen-v3-debug) | 独立调试期间的代码、接口与部署记录。<br>Code, API contracts, and rollout notes from the v3 debugging phase. |
-| [慢山行 / Manshan](https://github.com/yusheng266186-beep/manshan-guide) | 可离线读的丽江与香格里拉六日随身手册。<br>An offline-friendly six-day Lijiang and Shangri-La companion. |
-| [云上慢旅 / Lijiang travel](https://github.com/yusheng266186-beep/lijiang-travel) | 旅行影像展示与分日详细路线。<br>A visual journey and detailed daily routes. |
-| [丽江 × 香格里拉六日手册 / LJXL trip](https://github.com/yusheng266186-beep/ljxl-trip) | 面向手机的一页版行程、摄影和出发清单。<br>A one-page mobile itinerary, photography guide, and travel checklist. |
-| [滇南慢游 / Yunnan travel](https://github.com/yusheng266186-beep/yunnan-travel-guide) | 九天八晚跨代同行的交通与行程图鉴。<br>A nine-day itinerary and transportation guide for two generations traveling together. |
-| [西昌慢时光 / Xichang travel](https://github.com/yusheng266186-beep/xichang-travel) | 西昌四天三晚的可视化休闲攻略。<br>A visual four-day leisure itinerary for Xichang. |
-| [极简主义美学 / Minimalism presentation](https://github.com/yusheng266186-beep/minimalism-ppt) | 在浏览器中体验留白、秩序和极简主义设计。<br>A browser presentation about space, order, and minimalist design. |
+| 项目 / Project | 当时的用途 / Original purpose | 入口 / Open |
+| --- | --- | --- |
+| [北辰 v3 调试版 / Polaris v3 debug](https://github.com/yusheng266186-beep/beichen-v3-debug) | 独立调试期间的代码、接口与部署记录。<br>Code, API contracts, and rollout notes from the v3 debugging phase. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/beichen-v3-debug/) |
+| [慢山行 / Manshan](https://github.com/yusheng266186-beep/manshan-guide) | 可离线读的丽江与香格里拉六日随身手册。<br>An offline-friendly six-day Lijiang and Shangri-La companion. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/manshan-guide/) |
+| [云上慢旅 / Lijiang travel](https://github.com/yusheng266186-beep/lijiang-travel) | 旅行影像展示与分日详细路线。<br>A visual journey and detailed daily routes. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/lijiang-travel/) |
+| [丽江 × 香格里拉六日手册 / LJXL trip](https://github.com/yusheng266186-beep/ljxl-trip) | 面向手机的一页版行程、摄影和出发清单。<br>A one-page mobile itinerary, photography guide, and travel checklist. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/ljxl-trip/) |
+| [滇南慢游 / Yunnan travel](https://github.com/yusheng266186-beep/yunnan-travel-guide) | 九天八晚跨代同行的交通与行程图鉴。<br>A nine-day itinerary and transportation guide for two generations traveling together. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/yunnan-travel-guide/) |
+| [西昌慢时光 / Xichang travel](https://github.com/yusheng266186-beep/xichang-travel) | 西昌四天三晚的可视化休闲攻略。<br>A visual four-day leisure itinerary for Xichang. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/xichang-travel/) |
+| [极简主义美学 / Minimalism presentation](https://github.com/yusheng266186-beep/minimalism-ppt) | 在浏览器中体验留白、秩序和极简主义设计。<br>A browser presentation about space, order, and minimalist design. | [历史页面 / Archived site](https://yusheng266186-beep.github.io/minimalism-ppt/) |
 
 </details>
 
