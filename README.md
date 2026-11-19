@@ -55,7 +55,7 @@ I build education tools, interactive web experiences, and local-first apps. Find
 | [北辰 v3 / Polaris v3](https://github.com/yusheng266186-beep/beichen-codex) | 夜航、领航和北辰星图的独立发布线。<br>A separate release with two guided conversation modes and a star-map report. | [体验 v3 / Explore v3](https://yusheng266186-beep.github.io/beichen-codex/) |
 | [南溟 / Nanming](https://github.com/yusheng266186-beep/nanming) | 用历史招生数据与谈心线索探索院校、专业和学习目标。<br>Explore universities, majors, and study goals with historical admissions data. | [体验 / Explore](https://yusheng266186-beep.github.io/nanming/) |
 | [自我使用说明书 / Self Manual](https://github.com/yusheng266186-beep/self-manual) | 从真实经历、情境取舍和兴趣线索写出个人探索笔记。<br>Build a personal exploration notebook from experiences, trade-offs, and interests. | [体验 / Explore](https://yusheng266186-beep.github.io/self-manual/) |
-| [落点 · 四川 2026 / Luodian](https://github.com/yusheng266186-beep/sichuan-gaokao-2026) | 按专业组、分数和位次查找四川志愿候选。<br>Filter Sichuan admissions options by major group, score, and rank. | [数据查询 / Data explorer](https://yusheng266186-beep.github.io/sichuan-gaokao-2026/v2/) |
+| [落点 · 四川 2026 / Luodian](https://github.com/yusheng266186-beep/sichuan-gaokao-2026) | 按专业组、分数和位次查找四川志愿候选。<br>Filter Sichuan admissions options by major group, score, and rank. | [V3 数据查询 / V3 explorer](https://yusheng266186-beep.github.io/sichuan-gaokao-2026/v3/) · [V2 课堂版 / V2 classroom](https://yusheng266186-beep.github.io/sichuan-gaokao-2026/v2/?stage=1) |
 
 <a id="apps"></a>
 
